@@ -93,7 +93,7 @@ def point_gate_fixing(initial_points, pgf_params, adj_target):
         first two free points.
         pgf_params (dict): A dictionary containing the various choices
         available for the scales of the end-point vectors
-        and the binormal angle $\theta_B$.
+        and the barq angle $\theta_B$.
         adj_target (array): The target SU(2) gate expressed in the adjoint
         representation.
 

@@ -52,7 +52,7 @@ def barq_detuning_loss(frenet_dict):
 
     r"""
     Creates the loss to minimize the TTC detuning when the BARQ method is used.
-    The binormal angle $\theta_B$ is an additional degree of freedom that
+    The barq angle $\theta_B$ is an additional degree of freedom that
     enters the optimization in the gate-fixing stage.
     See barqtools.py for more details.
     """

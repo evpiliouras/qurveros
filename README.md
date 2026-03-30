@@ -13,8 +13,8 @@ If Space Curve Quantum Control (SCQC) already sounds familiar, you can go ahead
 and install `qurveros`. If you haven't seen SCQC before, you can consult 
 the following papers:
 
-&rarr; An automated geometric space curve approach for designing 
-dynamically corrected gates
+&rarr; [An automated geometric space curve approach for designing 
+dynamically corrected gates](https://www.nature.com/articles/s41534-026-01190-6)
 
 &rarr; [Dynamically corrected gates from geometric space curves](https://iopscience.iop.org/article/10.1088/2058-9565/ac4421)
 
@@ -130,8 +130,8 @@ to inspire the newcomers.
 If you found this repository useful to your work, please consider citing the 
 associated paper:
 
-&rarr; An automated geometric space curve approach for designing 
-dynamically corrected gates
+&rarr; [An automated geometric space curve approach for designing 
+dynamically corrected gates](https://www.nature.com/articles/s41534-026-01190-6)
 
 # Contact
 If you want to provide feedback 

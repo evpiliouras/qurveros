@@ -350,14 +350,14 @@ class BarqCurve(OptimizableSpaceCurve):
 
         """
         Saves the control points of the associated Bezier curve.
-        The first row contains the value of the binormal angle and the rest
+        The first row contains the value of the barq angle and the rest
         contain the control points used in BARQ.
         """
 
         points = self.get_bezier_control_points()
         barq_angle = self.params['pgf_params']['barq_angle']
 
-        # We add the first line to store the binormal angle for the TTC.
+        # We add the first line to store the barq angle for the TTC.
 
         points = jnp.vstack([
             [barq_angle, -1., -1.],
